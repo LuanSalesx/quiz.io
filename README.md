@@ -1,1 +1,1 @@
-# quiz.io
+# Quiz: teste seus conhecimentos básicos sobre JavaScript
